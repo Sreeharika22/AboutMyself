@@ -1,8 +1,6 @@
 #Sree Harika Kamadi
 #Software Engineer
 
-Email <sreeharikakamadi@gmail.com>| LinkedIn <https://www.linkedin.com/in/harika-kamadi/>
-
 ###PROFESIONAL EXPERIENCE
 
 ##Software Engineer                                             June 2024 – Present
