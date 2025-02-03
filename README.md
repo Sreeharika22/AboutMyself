@@ -1,6 +1,7 @@
 # Sree Harika Kamadi
 
 ### ABOUT
+
 I am a passionate Software Engineer with experience in full-stack development, cloud computing, and data infrastructure. I enjoy building scalable and efficient applications using technologies like Java, Python, AWS, and Kubernetes. With a strong background in database optimization and automation, I thrive on solving complex problems and improving system performance.
 
 ### PROFESIONAL EXPERIENCE
